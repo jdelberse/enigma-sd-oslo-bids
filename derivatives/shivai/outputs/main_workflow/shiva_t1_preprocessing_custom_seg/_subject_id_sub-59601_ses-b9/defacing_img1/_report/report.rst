@@ -1,1 +1,0 @@
-../../../../../../../../.git/annex/objects/PK/19/MD5E-s10242--d2a171b6c20f666c178043dcf7550581.rst/MD5E-s10242--d2a171b6c20f666c178043dcf7550581.rst
