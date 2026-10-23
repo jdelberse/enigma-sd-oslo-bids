@@ -1,4 +1,4 @@
-# Oslo sleep deprivation MRI dataset (`oslo-bids`)
+# Oslo Dataset (`oslo-bids`)
 
 ## Overview
 
@@ -17,9 +17,11 @@ This dataset contains MRI data from a sleep manipulation study conducted at the 
 
 ## Sleep protocol
 
+- **BL**: baseline (habitual) sleep
 - **SD**: total sleep deprivation, 32 h
+- **CL**: control, habitual sleep
 
-Participants were scanned under baseline and sleep manipulation conditions.
+Sessions T1 and T2 were collected on scanning day 1; T3 and T4 on scanning day 2.
 
 ## Imaging data
 
